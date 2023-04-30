@@ -42,4 +42,6 @@ first_name: David
 email: "bellojimenezdavid@gmail.com"
 ---
 
-David Bello Jiménez – A biologist with mastery in Geomatics, Remote Sensing, and Spatial Models applied to Forest Management from the University of Cordoba. He has the know-how as a freelancer conducting comprehensive works in environmental GIS analyses, cartography, and topography. Moreover, with expertise in consulting and auditing, David also possesses a genuine vocation for environmental management and quality processes, with a strong focus on sustainable development, clean energy, and CSR, together with a circular economy and carbon footprint.
+David Bello Jiménez – As a biologist who has obtained a master's degree in Geomatics, Remote Sensing, and Spatial Models applied to Forest Management from the University of Cordoba, I have acquired a diverse range of skills and expertise. As a freelancer, I have utilized this knowledge to conduct comprehensive works in environmental GIS analyses, cartography, and topography.
+
+Beyond my technical skills, I also possess a strong passion for environmental management and quality processes, with a genuine commitment to sustainable development, clean energy, and corporate social responsibility. My expertise in consulting and auditing has enabled me to assist organizations in achieving their environmental goals while adhering to the principles of a circular economy and reducing their carbon footprint.
