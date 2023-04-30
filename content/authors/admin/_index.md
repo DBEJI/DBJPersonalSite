@@ -21,8 +21,8 @@ social:
     icon: Rpubs
     link: https://rpubs.com/DBEJI
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hub-Terra
+    url: https://hub-terra.com/
 education:
   courses:
     - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest Management
@@ -39,7 +39,7 @@ role: Biologist
 highlight_name: true
 title: David Bello Jiménez
 first_name: David
-email: ""
+email: "bellojimenezdavid@gmail.com"
 ---
 
 David Bello Jiménez – A biologist with mastery in Geomatics, Remote Sensing, and Spatial Models applied to Forest Management from the University of Cordoba. He has the know-how as a freelancer conducting comprehensive works in environmental GIS analyses, cartography, and topography. Moreover, with expertise in consulting and auditing, David also possesses a genuine vocation for environmental management and quality processes, with a strong focus on sustainable development, clean energy, and CSR, together with a circular economy and carbon footprint.
