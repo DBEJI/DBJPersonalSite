@@ -3,9 +3,9 @@ avatar_filename: imagencv.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecology
+  - Data Science
+  - Environment Conservation
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,25 +26,21 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest Management
+      institution: University of Córdoba (UCO)
+      year: 2022
+    - course: BSc in Biological Sciencies
+      institution: University of Málaga (UMA)
+      year: 2018
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Bello Jiménez
 role: Biologist
 highlight_name: true
 title: David Bello Jiménez
-first_name: Alice
+first_name: David
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+David Bello Jiménez – A biologist with mastery in Geomatics, Remote Sensing, and Spatial Models applied to Forest Management from the University of Cordoba. He has the know-how as a freelancer conducting comprehensive works in environmental GIS analyses, cartography, and topography. Moreover, with expertise in consulting and auditing, David also possesses a genuine vocation for environmental management and quality processes, with a strong focus on sustainable development, clean energy, and CSR, together with a circular economy and carbon footprint.
