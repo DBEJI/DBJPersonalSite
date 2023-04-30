@@ -1,10 +1,9 @@
 ---
 avatar_filename: imagencv.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include ecology, species distribution and modeling.
 interests:
   - Ecology
-  - Data Science
+  - Species distribution and modeling
   - Environment Conservation
 social:
   - icon: envelope
