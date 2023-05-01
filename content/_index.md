@@ -137,11 +137,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me througth this email or via Hub-Terra website:
+        You can contact me at any time through this email or through the Hub-Terra website:
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: bellojimenezdavid@gmail.com
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -175,7 +173,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
