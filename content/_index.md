@@ -27,7 +27,7 @@ sections:
         - title: CEO
           company: Hub-Terra
           company_url: 'https://hub-terra.com/'
-          company_logo: org-gc
+          company_logo: nombre.jpg
           location: Spain
           date_start: '2023-04-27'
           date_end: ''
