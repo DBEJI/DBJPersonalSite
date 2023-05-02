@@ -1,0 +1,22 @@
+---
+title: "Example"
+output: html_document: theme: spacelab
+---
+
+# My RMarkdown example
+
+Here's some R code that will generate a scatterplot:
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point()
+
+summary(mtcars)
+```
+
+```{r}
+blogdown::serve_site()
+```
+
